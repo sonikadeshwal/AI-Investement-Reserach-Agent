@@ -5,6 +5,7 @@ An agentic financial research tool that takes any company name and gives you a f
 I built this to explore how LLM agents can automate research workflows that would otherwise take hours to do manually. The agent searches the web in real time, reasons over the results, and generates a structured report with an actual invest/don't invest decision.
 
 ---
+<img width="1174" height="861" alt="image" src="https://github.com/user-attachments/assets/97dd0ef1-8dde-460f-acfd-2831929d0bf0" />
 
 ## 🧠 How It Works
 
